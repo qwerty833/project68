@@ -1,0 +1,26 @@
+#map{
+    width: 100%;
+    margin-bottom: 100px;
+}
+.link{
+    float: left;
+    display: inline;
+    color: black;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+     padding-right: 9px;
+    font-family: 'Permanent Marker';
+    font-size: 20px;
+    
+}
+
+body{
+    text-align: center;
+}
+#line{
+    height:6px;
+    background-color: black;
+    width: 85px;
+    margin:8px auto;
+}
